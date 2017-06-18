@@ -1,0 +1,5 @@
+C:\Users\Charles Feng\Documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\BookShop.dll
+C:\Users\Charles Feng\Documents\visual studio 2015\Projects\BookShop\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Charles Feng\Documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Charles Feng\Documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.dll
+C:\Users\Charles Feng\Documents\visual studio 2015\Projects\BookShop\BookShop\obj\Debug\BookShop.pdb
